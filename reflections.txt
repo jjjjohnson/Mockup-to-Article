@@ -6,4 +6,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+I have learned the basic structure of html file, the way to orgianize styles by introducing calss in the tag and define it in the <style> tag.
+
+I found it easy to find the desired styles, add anchor tags just by google the thing I wanted.
+
+However, I found it hard to introduced empty line between the title, author name and data. Finally, I address it by adding a class named blankline and set margin-top:20px; in the <style>.
+
+Google and MDN element reference are very handy and well organized for me to find anything to make my page as close to the mockup as possible.
